@@ -1,0 +1,16 @@
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\bin\Debug\ProtectX.exe.config
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\bin\Debug\ProtectX.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\bin\Debug\ProtectX.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\ProtectX.CustomControl.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\ProtectX.Setting.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Explore.ShowFile.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Explore.GUI.LockFolder.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Explore.GUI.HideDrive.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Explore.GUI.LockForm.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Explore.Main.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Explore.GUI.UnlockForm.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\ProtectX.Properties.Resources.resources
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Protect.csproj.GenerateResource.Cache
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\ProtectX.exe
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\ProtectX.pdb
+C:\Users\Xoapit\Documents\Visual Studio 2015\Projects\SecurityFile\Explore\obj\Debug\Protect.csprojResolveAssemblyReference.cache
